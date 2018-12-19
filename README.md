@@ -1,7 +1,7 @@
 # TestGit
 
 # instagram
-#insta3 {
+# insta3 {
   margin-top: 16px;
   background-color: rgb(172, 201, 243);
   color: white;
